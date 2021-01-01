@@ -9,3 +9,5 @@ Note, you may need to modify the mute() and unmute() functions to actually mute 
 YMMV
 
 if you like this, buy me a beer or support your local charity
+
+see also [the Windows version](https://github.com/oh6hay/automute-windows)
